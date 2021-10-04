@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Arushi Rautela
-- 👀 I’m interested in everything tech
-- 🌱 I’m currently learning C programming language, UX Design and Webdev.
-- 📫 How to reach me : 
-Email: write2arushirautela@gmail.com
+##  Hello Visitors!👋 I’m Arushi Rautela. 
 
-<!---
-prettylittleminds/prettylittleminds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- A Sophomore in B.Tech IT.
+- I’m interested in everything tech. 👀 
+- Active contributor in _Open Source Projects_. 
+
+## 🌱 Techstack I'm familiar with: 
+
+C | C++ | Python | HTML | CSS | JavaScript 
+--|-----|--------|------|-----|-----------
+
+### 📫 Connect with me here:
+[![LinkedIn](https://i.imgur.com/njM8EwC.png)](https://www.linkedin.com/in/arushirautela/)
+[![Twitter](https://i.imgur.com/U7oeip9.png)](https://twitter.com/dathustlingchic)
+[![Instagram](https://i.imgur.com/C6l3vZN.png)](https://www.instagram.com/hapikid_/)
+[![Medium](https://i.imgur.com/1LHmIi0.png)](https://prettylittleminds.medium.com/)
+[![Linktr.ee](https://i.imgur.com/YgrGsvq.png)](https://linktr.ee/ArushiRautela)
+
+
+💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨
+
+
+🌈 Have a great day ahead!
+
+
