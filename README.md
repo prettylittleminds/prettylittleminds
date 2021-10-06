@@ -1,6 +1,6 @@
 <h1 align="center">Hello Visitor! <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> I'm Arushi Rautela. </h1>
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<img align='right' src='https://c.tenor.com/G452IB4_oCIAAAAi/animation-anime.gif' width='210"'>
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
@@ -18,11 +18,11 @@ C | C++ | Python | HTML | CSS | JavaScript
 <br>
 
 <a href="https://github.com/prettylittleminds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettylittleminds&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/prettylittleminds">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prettylittleminds&show_icons=true&theme=dark&line_height=27" alt="Arushi's github stats"/>
+</a>
+<img align='centre' src='https://c.tenor.com/W3NV3NILYMYAAAAi/anm.gif' width='210"'>
+<a href="https://github.com/prettylittleminds">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettylittleminds&theme=dark&hide_langs_below=1" />
 </a>
 
 <br>
@@ -41,13 +41,10 @@ C | C++ | Python | HTML | CSS | JavaScript
   
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35 px"> 
 
+<img align='centre' src='https://c.tenor.com/5W-eHdEn3JIAAAAi/miracle-nikki-phone.gif' width='170"'>
+
 <h4 align="centre">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨</h4>
 <h4 align="centre">🌈 Have a great day ahead!</h4>
-
-
-
-
-
 
 <p align="left">
   <img
