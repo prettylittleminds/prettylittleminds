@@ -1,25 +1,58 @@
-##  Hello Visitors!👋 I’m Arushi Rautela. 
+<h1 align="center">Hello Visitor! <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> I'm Arushi Rautela. </h1>
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
+<h3 align="left">👩🏻‍💻 About Me :</h3>
 
 - A Sophomore in B.Tech IT.
 - I’m interested in everything tech. 👀 
 - Active contributor in _Open Source Projects_. 
+- 📧 Reach me via **write2arushirautela@gmail.com**
+ 
 
-## 🌱 Techstack I'm familiar with: 
+## ✏️ Techstack I'm familiar with: 
 
 C | C++ | Python | HTML | CSS | JavaScript 
 --|-----|--------|------|-----|-----------
 
-### 📫 Connect with me here:
-[![LinkedIn](https://i.imgur.com/njM8EwC.png)](https://www.linkedin.com/in/arushirautela/)
-[![Twitter](https://i.imgur.com/U7oeip9.png)](https://twitter.com/dathustlingchic)
-[![Instagram](https://i.imgur.com/C6l3vZN.png)](https://www.instagram.com/hapikid_/)
-[![Medium](https://i.imgur.com/1LHmIi0.png)](https://prettylittleminds.medium.com/)
-[![Linktr.ee](https://i.imgur.com/YgrGsvq.png)](https://linktr.ee/ArushiRautela)
+<br>
+
+<a href="https://github.com/prettylittleminds">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettylittleminds&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/prettylittleminds">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=prettylittleminds&show_icons=true&theme=dark&line_height=27" alt="Arushi's github stats"/>
+</a>
+
+<br>
+
+### Connect with me here:
+
+<a href="https://www.linkedin.com/in/arushirautela/">
+    <img align="left" alt="Arushi Rautela | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+   <a href="https://twitter.com/dathustlingchic">
+    <img align="left" alt="dathustlingchic" | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a> 
+  <a href="https://www.instagram.com/hapikid_/">
+    <img align="left" alt="hapikid_" | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a><a href="https://prettylittleminds.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="prettylittleminds" height="25" width="25" /></a> 
+  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35 px"> 
+
+<h4 align="centre">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨</h4>
+<h4 align="centre">🌈 Have a great day ahead!</h4>
 
 
-💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨
 
 
-🌈 Have a great day ahead!
 
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=prettylittleminds"
+    alt="prettylittleminds"
+  />
+</p>
 
