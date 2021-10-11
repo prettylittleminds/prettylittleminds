@@ -55,3 +55,6 @@ C | C++ | Python | HTML | CSS | JavaScript
   />
 </p>
 
+[![GitHub followers](https://img.shields.io/github/followers/prettylittleminds.svg?label=Follow%20@prettylittleminds&style=social)](https://github.com/prettylittleminds/) 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
