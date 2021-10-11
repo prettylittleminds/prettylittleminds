@@ -15,6 +15,11 @@
 C | C++ | Python | HTML | CSS | JavaScript 
 --|-----|--------|------|-----|-----------
 
+<hr>
+<h3 align="left"> ✨ Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mysql.com/" target="_blank"> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+
 <br>
 
 <a href="https://github.com/prettylittleminds">
@@ -27,23 +32,20 @@ C | C++ | Python | HTML | CSS | JavaScript
 
 <br>
 
-### Connect with me here:
-
-<a href="https://www.linkedin.com/in/arushirautela/">
-    <img align="left" alt="Arushi Rautela | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-   <a href="https://twitter.com/dathustlingchic">
-    <img align="left" alt="dathustlingchic" | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a> 
-  <a href="https://www.instagram.com/hapikid_/">
-    <img align="left" alt="hapikid_" | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a><a href="https://prettylittleminds.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="prettylittleminds" height="25" width="25" /></a> 
-  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35 px"> 
+### 📫 Connect with me here:
+<hr>
+<p align="left">
+<a href="https://twitter.com/dathustlingchic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dathustlingchic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arushirautela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arushirautela" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hapikid_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hapikid_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arushirautela?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arushirautela" height="30" width="40" /></a>
+<a href="https://leetcode.com/prettylittleminds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prettylittleminds" height="30" width="40" /></a>
+<a href="https://discord.gg/Enchantress#1032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Enchantress#1032" height="30" width="40" /></a>
+</p>
 
 <img align='centre' src='https://c.tenor.com/5W-eHdEn3JIAAAAi/miracle-nikki-phone.gif' width='170"'>
 
-<h4 align="centre">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨</h4>
+<h4 align="centre">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨</h4> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35 px"> 
 <h4 align="centre">🌈 Have a great day ahead!</h4>
 
 <p align="left">
