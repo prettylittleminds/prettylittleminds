@@ -25,11 +25,6 @@ C | C++ | Python | HTML | CSS | JavaScript
 <a href="https://github.com/prettylittleminds">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prettylittleminds&show_icons=true&theme=dark&line_height=27" alt="Arushi's github stats"/>
 </a>
-<img align='centre' src='https://c.tenor.com/W3NV3NILYMYAAAAi/anm.gif' width='210"'>
-<a href="https://github.com/prettylittleminds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettylittleminds&theme=dark&hide_langs_below=1" />
-</a>
-
 <br>
 
 ### 📫 Connect with me here:
