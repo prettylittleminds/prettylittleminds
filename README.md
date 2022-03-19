@@ -1,6 +1,6 @@
 <h1 align="center">Hello Visitor! <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> I'm Arushi Rautela. </h1>
 
-<img align='right' src='https://c.tenor.com/G452IB4_oCIAAAAi/animation-anime.gif' width='200"'>
+<img align='right' src='https://c.tenor.com/G452IB4_oCIAAAAi/animation-anime.gif' width='170'>
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
