@@ -1,6 +1,6 @@
 <h1 align="center">Hello Visitor! <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> I'm Arushi Rautela. </h1>
 
-<img align='right' src='https://c.tenor.com/G452IB4_oCIAAAAi/animation-anime.gif' width='210"'>
+<img align='right' src='https://c.tenor.com/G452IB4_oCIAAAAi/animation-anime.gif' width='200"'>
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
@@ -33,9 +33,6 @@ Flutter | Firebase | Git | Blockchain | MySQL
 [![Twitter Badge](http://img.shields.io/badge/-@dathustlingchic-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/dathustlingchic)](https://twitter.com/dathustlingchic) 
 [![Linkedin Badge](https://img.shields.io/badge/-Arushi%20Rautela-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arushirautela/)](https://www.linkedin.com/in/arushirautela/) 
 [![Instagram Badge](https://img.shields.io/badge/hapikid_-blue?style=social&logo=Instagram&link=https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo)](https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo) 
-
-
-<img align='center' src='https://c.tenor.com/5W-eHdEn3JIAAAAi/miracle-nikki-phone.gif' width='170"'>
 
 <h4 align="center">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨
 <h4 align="center">🌈 Have a great day ahead!</h4>
