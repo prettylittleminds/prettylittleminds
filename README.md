@@ -28,19 +28,17 @@ C | C++ | Python | HTML | CSS | JavaScript
 <br>
 
 ### 📫 Connect with me here:
-<hr>
-<p align="left">
-<a href="https://twitter.com/dathustlingchic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dathustlingchic" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arushirautela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arushirautela" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hapikid_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hapikid_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arushirautela?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arushirautela" height="30" width="40" /></a>
-<a href="https://leetcode.com/prettylittleminds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prettylittleminds" height="30" width="40" /></a>
-<a href="https://discord.gg/Enchantress#1032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Enchantress#1032" height="30" width="40" /></a>
-</p>
+
+[![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/prettylittleminds)](https://github.com/prettylittleminds) 
+[![Twitter Badge](http://img.shields.io/badge/-@dathustlingchic-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/dathustlingchic)](https://twitter.com/dathustlingchic) 
+[![Linkedin Badge](https://img.shields.io/badge/-Arushi%20Rautela-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arushirautela/)](https://www.linkedin.com/in/arushirautela/) 
+[![Instagram Badge](https://img.shields.io/badge/hapikid_-blue?style=social&logo=Instagram&link=https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo)](https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo) 
+
 
 <img align='centre' src='https://c.tenor.com/5W-eHdEn3JIAAAAi/miracle-nikki-phone.gif' width='170"'>
 
-<h4 align="centre">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨</h4> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35 px"> 
+<h4 align="centre">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨</h4> <img align="
+center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35 px"> 
 <h4 align="centre">🌈 Have a great day ahead!</h4>
 
 <p align="left">
