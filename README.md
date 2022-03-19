@@ -27,17 +27,17 @@ Flutter | Firebase | Git | Blockchain | MySQL
 </a>
 <br>
 
-### 📫 Connect with me here:
+<h3 align="left"> 📫 Connect with me here: </h3>
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/prettylittleminds)](https://github.com/prettylittleminds) 
 [![Twitter Badge](http://img.shields.io/badge/-@dathustlingchic-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/dathustlingchic)](https://twitter.com/dathustlingchic) 
 [![Linkedin Badge](https://img.shields.io/badge/-Arushi%20Rautela-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arushirautela/)](https://www.linkedin.com/in/arushirautela/) 
 [![Instagram Badge](https://img.shields.io/badge/hapikid_-blue?style=social&logo=Instagram&link=https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo)](https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo) 
 
-<h4 align="center">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨
-<h4 align="center">🌈 Have a great day ahead!</h4>
+<h4 align="left">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨
+<h4 align="left">🌈 Have a great day ahead!</h4>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=prettylittleminds" alt="prettylittleminds"/>
 <a href=https://github.com/DSC-Banasthali-Vidyapith>
    <img src=https://img.shields.io/badge/DSCBanasthaliVidyapith-TeamMember-brightgreen>
