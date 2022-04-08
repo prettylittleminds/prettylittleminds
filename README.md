@@ -3,24 +3,28 @@
 <img align='right' src='https://c.tenor.com/G452IB4_oCIAAAAi/animation-anime.gif' width='170'>
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
-
-- A Sophomore in B.Tech IT.
-- I’m interested in everything tech. 👀 
-- Active _Open Source_ Contributor. 
+I'm a sophomore in B.Tech IT. I’m interested in Open-Source & everything tech. 👀 Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning cross-platform app development using Flutter. I'm skilled in Graphic Designing and Technical Content Writing. 
 
 ## ✏️ Languages I'm familiar with:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ### ✨ Technologies and Tools: 
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/flutter.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/blockchain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"></code>
 
-Flutter | Firebase | Git | Blockchain | MySQL
---------|----------|-----|------------|------
+![](https://github.com/prettylittleminds/prettylittleminds/raw/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/prettylittleminds">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prettylittleminds&show_icons=true&theme=dark&line_height=27" alt="Arushi's github stats"/>
