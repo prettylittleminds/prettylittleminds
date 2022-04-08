@@ -6,6 +6,11 @@
   <p> I'm a sophomore in B.Tech IT. I’m interested in Open-Source & everything tech. 👀 </br> Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning cross-platform app development using Flutter. I'm skilled in Graphic Designing and Technical Content Writing. 
   </p>
 </div>
+
+<div>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prettylittleminds&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Arushi Rautela" /></a></p>
+</div>
+
 <div align="center">
 <h3 align="center">✏️ Languages I'm familiar with:</h3>
 
@@ -28,6 +33,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"></code>
 </div>
+
+
 
 <h3 align="left"> Github Activity📊: </h3>
 <table>
@@ -64,7 +71,6 @@
 [![Instagram Badge](https://img.shields.io/badge/hapikid_-blue?style=social&logo=Instagram&link=https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo)](https://www.instagram.com/hapikid_?igshid=k8l41dsudxvo) 
 
 <h4 align="left">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨
-<h4 align="left">🌈 Have a great day ahead!</h4>
 
 <div align="center">
  <h3> Happy Coding! </h3>
